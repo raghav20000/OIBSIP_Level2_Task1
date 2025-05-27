@@ -1,1 +1,25 @@
 # OIBSIP_Level2_Task1
+
+🧮 Modern Calculator
+
+A sleek and responsive calculator built using HTML, CSS, and JavaScript. It handles basic arithmetic operations and features a clean, modern UI.
+
+⚙️ Features
+	•	Addition, Subtraction, Multiplication, Division
+	•	Percentage and Decimal support
+	•	C (Clear), DEL (Delete), and = (Calculate) functionality
+	•	Responsive grid layout using CSS
+	•	Styled buttons with hover effects
+
+💡 Technologies Used
+	•	HTML5 – for layout and structure
+	•	CSS3 – for styling and responsive design
+	•	JavaScript – for calculator logic and interactivity
+
+🖱️ How to Use
+	1.	Click the number and operator buttons to enter an expression.
+	2.	Use C to clear, DEL to delete the last character.
+	3.	Press = to get the result.
+
+📁 File Structure
+	•	index.html – Contains all the HTML, CSS, and JavaScript
